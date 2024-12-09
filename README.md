@@ -13,12 +13,12 @@ My background in computer science has sparked a genuine passion for cybersecurit
 
 ---
 
-## 🛠️ Skills & Projects
+## 🚀 Projects
 
-| Skill                                         | Associated Project                                 |
+| Domain                                         | Associated Projects                                 |
 |-----------------------------------------------|--------------------------------------------------|
-| Cybersecurity      | <a href="https://github.com/your-repo">***</a> |
-| Data Analysis | <a href="https://github.com/IamKator/Keystroke-Biometrics-Analysis/tree/main">Ketsroke Biometrics Analysis</a> |
+| Cybersecurity      | <a href="https://github.com/your-repo">Here</a> |
+| Data Analysis | <a href="https://github.com/IamKator/Keystroke-Biometrics-Analysis/tree/main">Here</a> |
 
 ---
 
@@ -62,14 +62,6 @@ My background in computer science has sparked a genuine passion for cybersecurit
 ## 📜 Certifications
 
 
-
----
-
-## 🚀 Projects
-
-- <a href="https://github.com/IamKator/Keystroke-Biometrics-Analysis/tree/main">Ketsroke Biometrics Analysis</a>
-- [***]
-- [***]
 
 ---
 
