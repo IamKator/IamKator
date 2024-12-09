@@ -67,9 +67,9 @@ My background in computer science has sparked a genuine passion for cybersecurit
 
 ## 🚀 Projects
 
-- [***](https://github.com/your-repo)
-- [***](https://github.com/your-repo)
-- [***](https://github.com/your-repo)
+- [***]
+- [***]
+- [***]
 
 ---
 
