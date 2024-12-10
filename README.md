@@ -29,9 +29,6 @@ My background in computer science has sparked a genuine passion for cybersecurit
     <a href="https://www.wireshark.org/" target="_blank">
         <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark" />
     </a>
-    <a href="https://www.microsoft.com/en-us/security/business/threat-protection/endpoint-defender" target="_blank">
-        <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Defender for Endpoint" />
-    </a>
     <a href="https://learn.microsoft.com/en-us/azure/sentinel/" target="_blank">
         <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Sentinel" />
     </a>
