@@ -9,16 +9,18 @@ I'm a recent computer science and cybersecurity graduate. Here, you'll find a co
 
 ## 🎯 Objective
 
-My background in computer science has sparked a genuine passion for cybersecurityaand all things data. I’m excited to take the next step in building a successful career. I’m eager to apply my skills, learn from real-world challenges, and contribute to creating secure systems and influencing innovative solutions from raw data.
+My background in computer science has sparked a genuine passion for cybersecurityaand all things data. I’m eager to apply my skills, learn from real-world challenges, and contribute to creating secure systems and influencing innovative solutions from raw data.
 
 ---
 
 ## 🚀 Projects
+### Cybersecurity      
+<a href="https://github.com/your-repo">Here</a> 
 
-| Domain                                         | Associated Projects                                 |
-|-----------------------------------------------|--------------------------------------------------|
-| Cybersecurity      | <a href="https://github.com/your-repo">Here</a> |
-| Data Analysis | <a href="https://github.com/IamKator/Keystroke-Biometrics-Analysis/tree/main">Here</a> |
+### Data Analysis
+<a href="https://github.com/IamKator/Volume Spike Analysis: Apple Inc./tree/main">Volume Spike Analysis: Apple Inc</a> 
+<a href="https://github.com/IamKator/Keystroke-Biometrics-Analysis/tree/main">Here</a> 
+
 
 ---
 
