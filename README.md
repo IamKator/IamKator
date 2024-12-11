@@ -14,13 +14,11 @@ My background in computer science has sparked a genuine passion for cybersecurit
 ---
 
 ## 🚀 Projects
-### Cybersecurity      
-<a href="https://github.com/your-repo">Here</a> 
 
-### Data Analysis
-<a href="https://github.com/IamKator/Volume Spike Analysis: Apple Inc./tree/main">Volume Spike Analysis: Apple Inc</a> 
-
-<a href="https://github.com/IamKator/Keystroke-Biometrics-Analysis/tree/main">Here</a> 
+| **Cybersecurity**                               | **Data Analysis**                                                                                     |
+|-------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| [General Cybersecurity Project](https://github.com/your-repo) | [Volume Spike Analysis: Apple Inc.](https://github.com/IamKator/Volume-Spike-Analysis-Apple-Inc/tree/main) |
+|                                                 | [Keystroke Biometrics Analysis](https://github.com/IamKator/Keystroke-Biometrics-Analysis/tree/main)   |
 
 
 ---
