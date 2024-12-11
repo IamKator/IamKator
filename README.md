@@ -17,8 +17,8 @@ My background in computer science has sparked a genuine passion for cybersecurit
 
 | **Cybersecurity**                               | **Data Analysis**                                                                                     |
 |-------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| [General Cybersecurity Project](https://github.com/your-repo) | [Volume Spike Analysis: Apple Inc.](https://github.com/IamKator/Volume-Spike-Analysis-Apple-Inc/tree/main) |
-|                                                 | [Keystroke Biometrics Analysis](https://github.com/IamKator/Keystroke-Biometrics-Analysis/tree/main)   |
+| | [Trading Volume Spike Analysis:AAPL](https://github.com/IamKator/Trading-Volume-Spike-Analysis-AAPL) |
+|                                                 |  |
 
 
 ---
