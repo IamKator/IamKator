@@ -17,8 +17,8 @@ My background in computer science has sparked a genuine passion for cybersecurit
 
 | **Cybersecurity**                               | **Data Analysis**                                                                                     |
 |-------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| | [Trading Volume Spike Analysis:AAPL](https://github.com/IamKator/Trading-Volume-Spike-Analysis-AAPL) |
-|                                                 |[Keystroke-Biometrics-Analysis](https://github.com/IamKator/Keystroke-Biometrics-Data-Analysis-Portfolio) |
+| |[Keystroke-Biometrics-Analysis](https://github.com/IamKator/Keystroke-Biometrics-Data-Analysis-Portfolio) |
+|                                                 | [Trading Volume Spike Analysis:AAPL](https://github.com/IamKator/Trading-Volume-Spike-Analysis-AAPL)|
 
 
 ---
